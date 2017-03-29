@@ -1,2 +1,4 @@
 # File-Format-Specification-Sheets
-Specifications for Bionano Genomic proprietary file formats
+The specifications for Bionano Genomic file formats has been moved to our support website here:
+
+http://bionanogenomics.com/support/bionano-solve
